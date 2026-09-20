@@ -219,7 +219,7 @@ The focus is:
 
 ---
 
-# 🛠️ Project-Based Learning
+# Project-Based Learning
 
 Every major topic will include practical projects.
 
