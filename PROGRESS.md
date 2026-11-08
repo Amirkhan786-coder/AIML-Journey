@@ -6,9 +6,9 @@ This file tracks the progress of the AIML Journey.
 
 # Overall Progress
 
-**Completed Topics:** 0  
-**Current Phase:** Phase 01 — Python Fundamentals  
-**Current Topic:** Variables & Data Types
+**Completed Topics:** 01 
+**Current Phase:** Phase 02 — Python Fundamentals  
+**Current Topic:** Numpy
 
 ---
 
@@ -16,23 +16,23 @@ This file tracks the progress of the AIML Journey.
 
 | Topic | Status | Project |
 |---|---|---|
-| Variables & Data Types | 🔵 Starting | ⬜ |
-| Input / Output | ⬜ | ⬜ |
-| Operators | ⬜ | ⬜ |
-| Conditions | ⬜ | ⬜ |
-| Loops | ⬜ | ⬜ |
-| Strings | ⬜ | ⬜ |
-| Lists | ⬜ | ⬜ |
-| Tuples | ⬜ | ⬜ |
-| Sets | ⬜ | ⬜ |
-| Dictionaries | ⬜ | ⬜ |
-| Functions | ⬜ | ⬜ |
-| Recursion | ⬜ | ⬜ |
-| Modules & Packages | ⬜ | ⬜ |
-| File Handling | ⬜ | ⬜ |
-| Exception Handling | ⬜ | ⬜ |
-| OOP | ⬜ | ⬜ |
-| Advanced Python | ⬜ | ⬜ |
+| Variables & Data Types | 
+| Input / Output |
+| Operators |
+| Conditions |
+| Loops | 
+| Strings |
+| Lists | 
+| Tuples | 
+| Sets |
+| Dictionaries| 
+| Functions | 
+| Recursion |
+| Modules & Packages | 
+| File Handling |
+| Exception Handling | 
+| OOP | 
+| Advanced Python | 
 
 ---
 
